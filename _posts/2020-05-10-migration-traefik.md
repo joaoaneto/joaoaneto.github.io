@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Migrating KNoT HTTP services to Traefik v2"
+title: "Migrating services to Traefik v2"
 author: "João Neto"
 categories: journal
 tags: [traefik,loadbalancer,knot,proxy,reverseproxy,docker]
